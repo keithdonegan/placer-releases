@@ -3,6 +3,18 @@
     <channel>
         <title>Placer</title>
         <item>
+            <title>1.0.2</title>
+            <pubDate>Mon, 19 Oct 2026 19:05:30 +0100</pubDate>
+            <sparkle:version>1.0.2</sparkle:version>
+            <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/keithdonegan/placer-releases/main/updates/Placer-1.0.2.zip" length="2653274" type="application/octet-stream" sparkle:edSignature="rflcDPdA6fEGBOPZNCkK8oPp8F8O1os+FEqAceiAX6cxgiVz27hNn0xD7jnYHtIyeIMUbJX0lIVYvRbWVpHcAQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/keithdonegan/placer-releases/main/updates/Placer1.0.2-1.0.1.delta" sparkle:deltaFrom="1.0.1" length="1151874" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="IUc647u5T5V0PxDMlLwppHsjdzMt/Q2pwXKIx6G60gWUbkV8hahooRKB5gFqyJ2Wua4/+s3iBzUHKfOUDlh1CQ=="/>
+                <enclosure url="https://raw.githubusercontent.com/keithdonegan/placer-releases/main/updates/Placer1.0.2-1.0.0.delta" sparkle:deltaFrom="1.0.0" length="1162662" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="lcctqQIdnZ72WTZFoFCLWlOe6H8oc0Ese4Cmv3rqLcR2UKUJeWNga44WEdd/ywSYwq3ioab+CpNazzkb9wUuDQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.0.1</title>
             <pubDate>Mon, 19 Oct 2026 18:48:40 +0100</pubDate>
             <sparkle:version>1.0.1</sparkle:version>
