@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Placer</title>
+        <item>
+            <title>1.0.0</title>
+            <pubDate>Mon, 19 Oct 2026 16:56:31 +0100</pubDate>
+            <sparkle:version>1.0.0</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/keithdonegan/placer-releases/main/updates/Placer-1.0.0.md</sparkle:releaseNotesLink>
+            <enclosure url="https://raw.githubusercontent.com/keithdonegan/placer-releases/main/updates/Placer-1.0.0.zip" length="1213866" type="application/octet-stream" sparkle:edSignature="FMzpMTZlVUBUbBn8VBPDU1FXPeLfrEFifQWhYY1H6EUhB1KA52qZN0O2ipF9hetCqqPUc2KkLvYsFwQelNu7DQ=="/>
+        </item>
+    </channel>
+</rss>
